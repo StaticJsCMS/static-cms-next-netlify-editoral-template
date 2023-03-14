@@ -39,7 +39,7 @@
     "@types/node": "18.15.3",
     "@types/react": "18.0.28",
     "cross-env": "7.0.3",
-    "cypress": "12.7.0",
+    "cypress": "12.8.0",
     "eslint-config-next": "13.2.3",
     "jest": "29.5.0",
     "js-yaml-loader": "1.2.2",
